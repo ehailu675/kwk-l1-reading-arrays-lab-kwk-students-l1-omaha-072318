@@ -1,4 +1,5 @@
 student_names = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
+
 def
 puts student_names[0]
 end
