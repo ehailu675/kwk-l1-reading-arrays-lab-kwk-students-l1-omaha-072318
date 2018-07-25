@@ -1,8 +1,6 @@
 STUDENT_NAMES = ["Adele", "Beyoncé", "Cardi B", "Lady Gaga", "Nicki Minaj", "Rihanna"]
 
-def first_student_by_index
-puts STUDENT_NAMES.first
-end
+STUDENT_NAMES[0]
 
 def fourth_student_by_index
   # Write a solution that returns the first student in the array student_names
